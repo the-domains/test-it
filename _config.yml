@@ -1,0 +1,28 @@
+name: Test it
+favicon: null
+layout_spectrum: 0.13898402848280966
+typography_spectrum: 0.554971257224679
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8622645700816065
+  lightness: 0.21182006364688277
+  saturation: 0.594326046295464
+  rhythmicContrast: 0.9692941210232675
+purpose: []
